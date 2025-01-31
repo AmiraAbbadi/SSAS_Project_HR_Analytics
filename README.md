@@ -40,6 +40,7 @@ SatisfactionFact :
 •	WorkLifeBalance (Équilibre entre vie professionnelle et vie personnelle de l'employé)
 •	DistanceFromHome (Distance entre le domicile de l'employé et son lieu de travail)
 •	BusinessTravel (Fréquence des voyages professionnels de l'employé)
+lien colab pour partie exploration des données : https://colab.research.google.com/drive/1j9EVVXux60SXXrCDBGxF2Sb7vShWRbno?usp=sharing
 
 
 ![diagram](https://github.com/AmiraAbbadi/SSAS_Project_HR_Analytics/assets/167568387/32ad544d-73f7-4b4b-97f4-19bc8a6951b4)
